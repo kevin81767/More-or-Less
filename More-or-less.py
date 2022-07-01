@@ -30,7 +30,3 @@ while user_number != the_number:
 
 
                    time.sleep(3)
-
-
-
-                  
